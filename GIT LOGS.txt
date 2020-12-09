@@ -1,0 +1,11 @@
+commit 428917cb80fc503d9d237de5023b7de3c24e75a4 (HEAD -> master)
+Author: DavidC4z <davidcaz824@gmail.com>
+Date:   Wed Dec 2 12:40:06 2020 -0700
+
+    Pagina con solo 3 Marcas terminadas
+
+commit f6100d3851afaa3ed668463ed3538beeac193ae5 (HEAD -> master)
+Author: DavidC4z <davidcaz824@gmail.com>
+Date:   Wed Dec 2 20:16:36 2020 -0700
+
+    Pagina con 4 marcas, NIKE terminada
